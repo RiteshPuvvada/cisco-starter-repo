@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=The+Nautigal:wght@700&display=swap');
+
+.Wrapper{
+    align-items: center;
+}
+
+.title{
+    font-size: 75px;
+    margin-top: 2%;
+    color: #d74cf6;
+    font-family: 'The Nautigal', cursive;
+}
+
+.CiscoLogo{
+    padding-top: 5%;
+    height: max-content;
+    width: max-content;
+    padding-bottom: 5%;
+}
