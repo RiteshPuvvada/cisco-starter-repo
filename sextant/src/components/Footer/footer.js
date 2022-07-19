@@ -4,7 +4,7 @@ import "./footer.css";
 // eslint-disable-next-lin
 const Footer = ({ }) => {
     return (
-        <div className='footer'>
+        <div className='footer-container'>
             <p className='footerDesc'>&copy; 2022 Sextant by Cisco</p>
         </div>
     )

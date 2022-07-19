@@ -15,5 +15,5 @@
     padding-top: 5%;
     height: max-content;
     width: max-content;
-    padding-bottom: 5%;
+    overflow: auto; 
 }
